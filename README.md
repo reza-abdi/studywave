@@ -1,4 +1,4 @@
-# wedidathink
+# StudyWave (team: wedidathink)
 
 # NatHacks Hackathon
 
